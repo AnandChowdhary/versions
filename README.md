@@ -4,7 +4,16 @@ This repository different versions of my personal website, anandchowdhary.com, c
 
 [![Readme CI](https://github.com/AnandChowdhary/versions/actions/workflows/api.yml/badge.svg)](https://github.com/AnandChowdhary/versions/actions/workflows/api.yml)
 
-<!--notes--><!--/notes-->
+<!--notes-->
+
+## 🌯 Summary
+
+- 1 notes in 1 years
+
+### 2022
+
+- [Alameda](./versions/2022/alameda.md) (6 words), October 8, 2022
+<!--/notes-->
 
 ## ℹ️ About this repository
 
