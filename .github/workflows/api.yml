@@ -21,3 +21,9 @@ jobs:
           token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update versions summary [skip ci]"
           dirName: "versions"
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
