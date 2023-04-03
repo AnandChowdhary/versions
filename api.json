@@ -1,5 +1,227 @@
 [
   {
+    "slug": "atom.md",
+    "path": "versions/2012/atom.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2012/atom.md",
+    "title": "Atom",
+    "date": "2012-01-14T00:00:00.000Z",
+    "attributes": {
+      "title": "Atom",
+      "date": "2012-01-14T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20120114080020if_/http://anandchowdhary.co.nr:80/",
+      "type": [
+        "Merriweather"
+      ],
+      "stack": [
+        "CSS"
+      ],
+      "domain": "anandchowdhary.co.nr",
+      "theme": "Atom"
+    }
+  },
+  {
+    "slug": "artistic.md",
+    "path": "versions/2014/artistic.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2014/artistic.md",
+    "title": "Artistic",
+    "date": "2014-12-16T00:00:00.000Z",
+    "attributes": {
+      "title": "Artistic",
+      "date": "2014-12-16T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20141216182743/http://anandchowdhary.com/",
+      "stack": [
+        "CSS"
+      ],
+      "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/ed29654",
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "academia.md",
+    "path": "versions/2015/academia.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2015/academia.md",
+    "title": "Academia",
+    "date": "2015-02-23T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Academia",
+      "date": "2015-02-23T00:00:00.000Z",
+      "stack": [
+        "CSS"
+      ],
+      "archive": "https://web.archive.org/web/20150223233330/http://anandchowdhary.com/",
+      "archiveBroken": true,
+      "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/1f38c4a",
+      "domain": "anandchowdhary.com",
+      "type": [
+        "Adobe Text Pro"
+      ]
+    }
+  },
+  {
+    "slug": "arise.md",
+    "path": "versions/2015/arise.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2015/arise.md",
+    "title": "Arise",
+    "date": "2015-08-01T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Arise",
+      "date": "2015-08-01T00:00:00.000Z",
+      "generator": "WordPress",
+      "archive": "https://web.archive.org/web/20150801005503/http://anandchowdhary.com/",
+      "type": [
+        "Freight Sans Pro",
+        "Freight Serif Pro"
+      ],
+      "stack": [
+        "CSS",
+        "PHP"
+      ],
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "asterisk.md",
+    "path": "versions/2016/asterisk.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2016/asterisk.md",
+    "title": "Asterisk",
+    "date": "2016-01-09T00:00:00.000Z",
+    "attributes": {
+      "title": "Asterisk",
+      "date": "2016-01-09T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20160109082650/http://anandchowdhary.com/",
+      "stack": [
+        "CSS"
+      ],
+      "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/0bc2777",
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "airbrush.md",
+    "path": "versions/2016/airbrush.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2016/airbrush.md",
+    "title": "Airbrush",
+    "date": "2016-02-12T00:00:00.000Z",
+    "attributes": {
+      "title": "Airbrush",
+      "date": "2016-02-12T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20160212050341/http://anand.typify.io/",
+      "generator": "Typify.io",
+      "domain": "anand.typify.io"
+    }
+  },
+  {
+    "slug": "altitude.md",
+    "path": "versions/2016/altitude.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2016/altitude.md",
+    "title": "Altitude",
+    "date": "2016-03-15T00:00:00.000Z",
+    "attributes": {
+      "title": "Altitude",
+      "date": "2016-03-15T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20160315174121/http://anandchowdhary.com/",
+      "stack": [
+        "CSS"
+      ],
+      "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/e6fde7d",
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "assembly.md",
+    "path": "versions/2016/assembly.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2016/assembly.md",
+    "title": "Assembly",
+    "date": "2016-12-07T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Assembly",
+      "date": "2016-12-07T00:00:00.000Z",
+      "archive": "https://web.archive.org/web/20161207174612/http://anandchowdhary.com/",
+      "archiveBroken": true,
+      "stack": [
+        "CSS"
+      ],
+      "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/b568401",
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "access.md",
+    "path": "versions/2017/access.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2017/access.md",
+    "title": "Access",
+    "date": "2017-10-10T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Access",
+      "date": "2017-10-10T00:00:00.000Z",
+      "generator": "WordPress",
+      "archive": "https://web.archive.org/web/20171010082516/https://anandchowdhary.com/",
+      "type": [
+        "Vollkorn"
+      ],
+      "stack": [
+        "Sass",
+        "PHP"
+      ],
+      "domain": "anandchowdhary.com",
+      "theme": "Access",
+      "themeLink": "https://github.com/AnandChowdhary/access"
+    }
+  },
+  {
+    "slug": "abacus.md",
+    "path": "versions/2018/abacus.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2018/abacus.md",
+    "title": "Abacus",
+    "date": "2018-07-08T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Abacus",
+      "date": "2018-07-08T00:00:00.000Z",
+      "generator": "Hugo",
+      "archive": "https://web.archive.org/web/20180708082514/https://anandchowdhary.com/",
+      "type": [
+        "IBM Plex Sans",
+        "IBM Plex Serif"
+      ],
+      "stack": [
+        "Sass",
+        "Go",
+        "JavaScript"
+      ],
+      "domain": "anandchowdhary.com"
+    }
+  },
+  {
+    "slug": "amsterdam.md",
+    "path": "versions/2020/amsterdam.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2020/amsterdam.md",
+    "title": "Amsterdam",
+    "date": "2020-02-15T00:00:00.000Z",
+    "excerpt": "",
+    "attributes": {
+      "title": "Amsterdam",
+      "date": "2020-02-15T00:00:00.000Z",
+      "generator": "Eleventy",
+      "archive": "https://web.archive.org/web/20200215215423/https://anandchowdhary.com/",
+      "type": [
+        "IBM Plex Sans",
+        "IBM Plex Serif"
+      ],
+      "stack": [
+        "Sass",
+        "Nunjucks",
+        "TypeScript"
+      ],
+      "domain": "anandchowdhary.com",
+      "latest": true
+    }
+  },
+  {
     "slug": "alameda.md",
     "path": "versions/2022/alameda.md",
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2022/alameda.md",
