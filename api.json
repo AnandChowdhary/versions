@@ -227,9 +227,22 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2022/alameda.md",
     "title": "Alameda",
     "date": "2022-10-08T00:00:00.000Z",
-    "excerpt": "Coming later in 2022",
+    "excerpt": "In some ways, this redesign is the best reflection of the me of 2022. It's named after the county I was in when I was designing it, the Alameda county in the San Francisco Bay Area, and it focused on my life. Unlike previous iterations of my personal website, this does not focus entirely on my projects or work, but on all aspects my life.",
     "attributes": {
-      "date": "2022-10-08T00:00:00.000Z"
+      "date": "2022-10-08T00:00:00.000Z",
+      "title": "Alameda",
+      "generator": "Deno Fresh",
+      "archive": "https://web.archive.org/web/20230602043202/https://anandchowdhary.com/",
+      "type": [
+        "System"
+      ],
+      "stack": [
+        "React",
+        "TypeScript",
+        "Deno"
+      ],
+      "domain": "anandchowdhary.com",
+      "latest": true
     }
   }
 ]
