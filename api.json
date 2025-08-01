@@ -17,7 +17,8 @@
       ],
       "domain": "anandchowdhary.co.nr",
       "theme": "Atom"
-    }
+    },
+    "emoji": "⚛️🧪🔬"
   },
   {
     "slug": "artistic.md",
@@ -34,7 +35,8 @@
       ],
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/ed29654",
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "🎨🖌️✨"
   },
   {
     "slug": "academia.md",
@@ -56,7 +58,8 @@
       "type": [
         "Adobe Text Pro"
       ]
-    }
+    },
+    "emoji": "🎓📚🖼️"
   },
   {
     "slug": "arise.md",
@@ -79,7 +82,8 @@
         "PHP"
       ],
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "🖼️📸🌄"
   },
   {
     "slug": "asterisk.md",
@@ -96,7 +100,8 @@
       ],
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/0bc2777",
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "⭐️✳️🔢"
   },
   {
     "slug": "airbrush.md",
@@ -110,7 +115,8 @@
       "archive": "https://web.archive.org/web/20160212050341/http://anand.typify.io/",
       "generator": "Typify.io",
       "domain": "anand.typify.io"
-    }
+    },
+    "emoji": "🎨✈️💨"
   },
   {
     "slug": "altitude.md",
@@ -127,7 +133,8 @@
       ],
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/e6fde7d",
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "🗻🎈📏"
   },
   {
     "slug": "assembly.md",
@@ -146,7 +153,8 @@
       ],
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/b568401",
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "🖼️💻📁"
   },
   {
     "slug": "access.md",
@@ -170,7 +178,8 @@
       "domain": "anandchowdhary.com",
       "theme": "Access",
       "themeLink": "https://github.com/AnandChowdhary/access"
-    }
+    },
+    "emoji": "🔑📷🌐"
   },
   {
     "slug": "abacus.md",
@@ -194,7 +203,8 @@
         "JavaScript"
       ],
       "domain": "anandchowdhary.com"
-    }
+    },
+    "emoji": "🧮📊📚"
   },
   {
     "slug": "amsterdam.md",
@@ -219,7 +229,8 @@
       ],
       "domain": "anandchowdhary.com",
       "latest": true
-    }
+    },
+    "emoji": "🌆📸🇳🇱"
   },
   {
     "slug": "alameda.md",
@@ -243,6 +254,7 @@
       ],
       "domain": "anandchowdhary.com",
       "latest": true
-    }
+    },
+    "emoji": "🌿📊🌐"
   }
 ]
