@@ -8,7 +8,7 @@ This repository different versions of my personal website, anandchowdhary.com, c
 
 ## 🌯 Summary
 
-- 12 versions in 8 years
+- 12 versions in 9 years
 
 ### 2022
 
