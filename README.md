@@ -8,7 +8,11 @@ This repository different versions of my personal website, anandchowdhary.com, c
 
 ## 🌯 Summary
 
-- 12 versions in 9 years
+- 13 versions in 9 years
+
+### 2025
+
+- [ ⚓🖥️📄Anchor](./versions/2025/anchor.md)
 
 ### 2022
 

@@ -44,7 +44,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2015/academia.md",
     "title": "Academia",
     "date": "2015-02-23T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of about page\nScreenshot of writing page\nScreenshot of portfolio page",
     "attributes": {
       "title": "Academia",
       "date": "2015-02-23T00:00:00.000Z",
@@ -67,7 +67,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2015/arise.md",
     "title": "Arise",
     "date": "2015-08-01T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of Projects page\nScreenshot of Blog page\nScreenshot of Blog page\nScreenshot of Blog page",
     "attributes": {
       "title": "Arise",
       "date": "2015-08-01T00:00:00.000Z",
@@ -142,7 +142,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2016/assembly.md",
     "title": "Assembly",
     "date": "2016-12-07T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of about page\nScreenshot of press page\nScreenshot of projects page",
     "attributes": {
       "title": "Assembly",
       "date": "2016-12-07T00:00:00.000Z",
@@ -162,7 +162,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2017/access.md",
     "title": "Access",
     "date": "2017-10-10T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of the footer\nScreenshot of About page",
     "attributes": {
       "title": "Access",
       "date": "2017-10-10T00:00:00.000Z",
@@ -187,7 +187,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2018/abacus.md",
     "title": "Abacus",
     "date": "2018-07-08T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of Projects page\nScreenshot of Blog page",
     "attributes": {
       "title": "Abacus",
       "date": "2018-07-08T00:00:00.000Z",
@@ -212,7 +212,7 @@
     "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2020/amsterdam.md",
     "title": "Amsterdam",
     "date": "2020-02-15T00:00:00.000Z",
-    "excerpt": "",
+    "excerpt": "Screenshot of About page\nScreenshot of Blog page\nScreenshot of Contact page\nScreenshot of Events page\nScreenshot of Projects page\nScreenshot of Life page\nScreenshot of Travel page\nScreenshot of City page\nScreenshot of Videos page",
     "attributes": {
       "title": "Amsterdam",
       "date": "2020-02-15T00:00:00.000Z",
@@ -252,9 +252,33 @@
         "TypeScript",
         "Deno"
       ],
+      "domain": "anandchowdhary.com"
+    },
+    "emoji": "🌿📊🌐"
+  },
+  {
+    "slug": "anchor.md",
+    "path": "versions/2025/anchor.md",
+    "source": "https://github.com/AnandChowdhary/versions/blob/main/versions/2025/anchor.md",
+    "title": "Anchor",
+    "date": "2025-08-28T00:00:00.000Z",
+    "excerpt": "Anchor version represents both an evolution in my personal website's design philosophy and at the same time, a simplification. Named after the mighty HTML <a> tag, this redesign focuses on creating a comprehensive digital home that best reflects the Anand of 2025. It's based on the same APIs as previous iterations of my website, and serves as a central hub that brings together all facets of my digital presence, creating a living document that automatically updates as my life evolves.",
+    "attributes": {
+      "date": "2025-08-28T00:00:00.000Z",
+      "title": "Anchor",
+      "generator": "Next.js",
+      "archive": "https://web.archive.org/web/20250828183304/https://anandchowdhary.com/",
+      "type": [
+        "Geist"
+      ],
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
       "domain": "anandchowdhary.com",
       "latest": true
     },
-    "emoji": "🌿📊🌐"
+    "emoji": "⚓🖥️📄"
   }
 ]
