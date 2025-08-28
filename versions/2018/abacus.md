@@ -8,5 +8,5 @@ stack: ["Sass", "Go", "JavaScript"]
 domain: "anandchowdhary.com"
 ---
 
-<div class="image shadow scrollable"><img alt="Screenshot of Projects page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/abacus/projects.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Blog page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/abacus/blog.png"></div>
+![Screenshot of Projects page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/abacus/projects.png)
+![Screenshot of Blog page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/abacus/blog.png)

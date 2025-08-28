@@ -9,6 +9,6 @@ domain: "anandchowdhary.com"
 type: ["Adobe Text Pro"]
 ---
 
-<div class="image shadow scrollable"><img alt="Screenshot of about page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/about.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of writing page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/writing.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of portfolio page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/portfolio.png"></div>
+![Screenshot of about page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/about.png)
+![Screenshot of writing page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/writing.png)
+![Screenshot of portfolio page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/academia/portfolio.png)

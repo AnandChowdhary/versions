@@ -6,7 +6,6 @@ archive: "https://web.archive.org/web/20230602043202/https://anandchowdhary.com/
 type: ["System"]
 stack: ["React", "TypeScript", "Deno"]
 domain: "anandchowdhary.com"
-latest: true
 ---
 
 # Alameda
@@ -34,6 +33,6 @@ Since I could not use the fancy calculation done by Website Carbon, I used the f
 - **Energy per visit in kWh (E)** = [Data Transfer per Visit (new visitors) in GB x 0.81 kWh/GB x 0.75]
 - **Emissions per visit in grams CO2e (C)** = E x 442 g/kWh (or alternative/region-specific carbon factor)
 
-For example, the homepage transfers 984 kB of data when uncached and 22.8 kB when cached. For the uncached visit, the carbon footprint is 0.0009375 GB * 0.81 kWh/GB * 0.75 * 442 g/kWh ≈ 0.2518 grams of carbon equivalents. Since only text is made available in the source code, I use an approximate value for each loaded image to display the total carbon footprint of the page in the footer of the website.
+For example, the homepage transfers 984 kB of data when uncached and 22.8 kB when cached. For the uncached visit, the carbon footprint is 0.0009375 GB _ 0.81 kWh/GB _ 0.75 \* 442 g/kWh ≈ 0.2518 grams of carbon equivalents. Since only text is made available in the source code, I use an approximate value for each loaded image to display the total carbon footprint of the page in the footer of the website.
 
 For more information about digital carbon footprints, read [Calculating Digital Emissions](https://sustainablewebdesign.org/calculating-digital-emissions/) on Sustainable Web Design.

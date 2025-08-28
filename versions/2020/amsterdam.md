@@ -9,12 +9,12 @@ domain: "anandchowdhary.com"
 latest: true
 ---
 
-<div class="image shadow scrollable"><img alt="Screenshot of About page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/about.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Blog page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/blog.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Contact page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/contact.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Events page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/events.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Projects page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/projects.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Life page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/life.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Travel page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/travel.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of City page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/city.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of Videos page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/videos.png"></div>
+![Screenshot of About page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/about.png)
+![Screenshot of Blog page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/blog.png)
+![Screenshot of Contact page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/contact.png)
+![Screenshot of Events page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/events.png)
+![Screenshot of Projects page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/projects.png)
+![Screenshot of Life page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/life.png)
+![Screenshot of Travel page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/travel.png)
+![Screenshot of City page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/city.png)
+![Screenshot of Videos page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/amsterdam/videos.png)

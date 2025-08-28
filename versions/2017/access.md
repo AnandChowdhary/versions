@@ -10,5 +10,5 @@ theme: Access
 themeLink: https://github.com/AnandChowdhary/access
 ---
 
-<div class="image shadow scrollable"><img alt="Screenshot of the footer" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/access/home-full.png"></div>
-<div class="image shadow scrollable"><img alt="Screenshot of About page" src="https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/access/about.png"></div>
+![Screenshot of the footer](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/access/home-full.png)
+![Screenshot of About page](https://raw.githubusercontent.com/AnandChowdhary/versions/main/assets/access/about.png)
