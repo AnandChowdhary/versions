@@ -18,7 +18,8 @@
       "domain": "anandchowdhary.co.nr",
       "theme": "Atom"
     },
-    "emoji": "⚛️🧪🔬"
+    "emoji": "⚛️🧪🔬",
+    "caption": "🔧 CSS\n🔤 Merriweather"
   },
   {
     "slug": "artistic.md",
@@ -36,7 +37,8 @@
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/ed29654",
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🎨🖌️✨"
+    "emoji": "🎨🖌️✨",
+    "caption": "🔧 CSS"
   },
   {
     "slug": "academia.md",
@@ -59,7 +61,8 @@
         "Adobe Text Pro"
       ]
     },
-    "emoji": "🎓📚🖼️"
+    "emoji": "🎓📚🖼️",
+    "caption": "🔧 CSS\n🔤 Adobe Text Pro"
   },
   {
     "slug": "arise.md",
@@ -83,7 +86,8 @@
       ],
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🖼️📸🌄"
+    "emoji": "🖼️📸🌄",
+    "caption": "🔧 CSS, PHP\n🔤 Freight Sans Pro, Freight Serif Pro\n⚙️ WordPress"
   },
   {
     "slug": "asterisk.md",
@@ -101,7 +105,8 @@
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/0bc2777",
       "domain": "anandchowdhary.com"
     },
-    "emoji": "⭐️✳️🔢"
+    "emoji": "⭐️✳️🔢",
+    "caption": "🔧 CSS"
   },
   {
     "slug": "airbrush.md",
@@ -116,7 +121,8 @@
       "generator": "Typify.io",
       "domain": "anand.typify.io"
     },
-    "emoji": "🎨✈️💨"
+    "emoji": "🎨✈️💨",
+    "caption": "⚙️ Typify.io"
   },
   {
     "slug": "altitude.md",
@@ -134,7 +140,8 @@
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/e6fde7d",
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🗻🎈📏"
+    "emoji": "🗻🎈📏",
+    "caption": "🔧 CSS"
   },
   {
     "slug": "assembly.md",
@@ -154,7 +161,8 @@
       "source": "https://github.com/AnandChowdhary/anandchowdhary.com/tree/b568401",
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🖼️💻📁"
+    "emoji": "🖼️💻📁",
+    "caption": "🔧 CSS"
   },
   {
     "slug": "access.md",
@@ -179,7 +187,8 @@
       "theme": "Access",
       "themeLink": "https://github.com/AnandChowdhary/access"
     },
-    "emoji": "🔑📷🌐"
+    "emoji": "🔑📷🌐",
+    "caption": "🔧 Sass, PHP\n🔤 Vollkorn\n⚙️ WordPress"
   },
   {
     "slug": "abacus.md",
@@ -204,7 +213,8 @@
       ],
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🧮📊📚"
+    "emoji": "🧮📊📚",
+    "caption": "🔧 Sass, Go, JavaScript\n🔤 IBM Plex Sans, IBM Plex Serif\n⚙️ Hugo"
   },
   {
     "slug": "amsterdam.md",
@@ -230,7 +240,8 @@
       "domain": "anandchowdhary.com",
       "latest": true
     },
-    "emoji": "🌆📸🇳🇱"
+    "emoji": "🌆📸🇳🇱",
+    "caption": "🔧 Sass, Nunjucks, TypeScript\n🔤 IBM Plex Sans, IBM Plex Serif\n⚙️ Eleventy"
   },
   {
     "slug": "alameda.md",
@@ -254,7 +265,8 @@
       ],
       "domain": "anandchowdhary.com"
     },
-    "emoji": "🌿📊🌐"
+    "emoji": "🌿📊🌐",
+    "caption": "🔧 React, TypeScript, Deno\n🔤 System\n⚙️ Deno Fresh"
   },
   {
     "slug": "anchor.md",
@@ -279,6 +291,7 @@
       "domain": "anandchowdhary.com",
       "latest": true
     },
-    "emoji": "⚓🖥️📄"
+    "emoji": "⚓🖥️📄",
+    "caption": "🔧 React, TypeScript, Tailwind\n🔤 Geist\n⚙️ Next.js"
   }
 ]
